@@ -1,0 +1,5 @@
+![Página inicial](https://github.com/jacquelineatae/ReciclaTech-Atibaia/assets/95693055/c43fe40b-5285-444e-904a-3e50d6e04ea8)
+![Manual de descarte](https://github.com/jacquelineatae/ReciclaTech-Atibaia/assets/95693055/753bb746-a858-4805-b14c-4604f6c444c9)
+![Sobre](https://github.com/jacquelineatae/ReciclaTech-Atibaia/assets/95693055/b293a2c1-c577-4dba-a427-6784f7186652)
+![Página de ponto de coleta](https://github.com/jacquelineatae/ReciclaTech-Atibaia/assets/95693055/192b76fd-589d-47e1-9063-8dbea09b31a2)
+![Pop up com mais informações do posto de coleta](https://github.com/jacquelineatae/ReciclaTech-Atibaia/assets/95693055/9100791a-d826-4e7d-a9c7-970f620bc76d)
